@@ -40,7 +40,9 @@ In this application, we are using reducers to develop unit tests. Reducers are g
 <br/>
 Here, we call reducers with an input state and action. Source: https://redux.js.org/usage/writing-tests
 <br/>
+To run tests, go to client folder and run the command `npm test`.
 Cases being tested:  UPDATE_PRODUCTS, ADD_TO_CART, UPDATE_CART_QUANTITY, REMOVE_FROM_CART, ADD_MULTIPLE_TO_CART, CLEAR_CART, TOGGLE_CART,
+<br/>
 <br/>
 ![Screen Shot 2022-02-10 at 9 02 55 AM](https://user-images.githubusercontent.com/83382332/153442547-9612a996-7c56-4ba3-b7de-1ae567615a32.png)
 
@@ -50,6 +52,15 @@ Cases being tested:  UPDATE_PRODUCTS, ADD_TO_CART, UPDATE_CART_QUANTITY, REMOVE_
 https://twomenandahorse.herokuapp.com/
 ### GitHub Repo
 https://github.com/josemartin357/moving-ecomm
+
+## Future development
+Currently working on the following ideas:
+<br/>
+Redoing concept of application so rather than being an e-commerce business for one company, it can instead be a platform where users can post their moving services for short moves and/or users can make a moving reservation.
+<br/>
+Contact component in Nav bar which will have static contact info and a contact form using EmailJS.
+<br/>
+My orders component which will carry all the orders made by logged-in user.
 
 
 ## Contributors 
